@@ -21,7 +21,7 @@
     * background color
     * position & display properties
     * flex box
-    * Height, width, font texttransform transitions etc
+    * Height, width, font text-transform, transitions etc
     * list-style properties
     * margin padding
     * images with hovering effects.
