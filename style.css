@@ -1,9 +1,11 @@
-*{
+  *{
     margin: 0;
     padding: 1;
     font-family: sans-serif;
 }
-
+body{
+    
+}
 .hero{
     position: relative;
     width: 100%;
