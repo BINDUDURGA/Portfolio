@@ -14,7 +14,7 @@
     * nav bars :- i have used img, ul, li, a tags
     * links: In links i have used anchor tag with home, About, Portfolio, Serviices, Hire Me as description
     * lists :- i have used ul and li tags
-    * images: I have posted the link for the images check this [Link for images](images "Images").
+    * images: I have posted the link for the images check this [Link for images](images "https://github.com/BINDUDURGA/Portfolio/tree/main/Portfolio/images").
 
 * CSS
     ##### Attributes:
